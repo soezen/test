@@ -3,12 +3,12 @@
 
   <groupId>sur.snapps</groupId>
   <artifactId>test</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
 
   <scm>
   	<connection>scm:git:ssh://github.com/soezen/test.git</connection>
   	<developerConnection>scm:git:ssh://git@github.com/soezen/test.git</developerConnection>
-  	<tag>HEAD</tag>
+  	<tag>test-0.0.2</tag>
   	<url>http://github.com/soezen/test</url>
   </scm>
 
